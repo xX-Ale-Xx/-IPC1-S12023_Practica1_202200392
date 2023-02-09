@@ -4,4 +4,4 @@ Nombre: Javier Alejandro Avila Flores
 <br>
 Carné: 202200392
 <br>
-Introduccion a la programacion y Computacion 1 seccion C
+Introduccion a la programacion y Computacion 1 seccion D
